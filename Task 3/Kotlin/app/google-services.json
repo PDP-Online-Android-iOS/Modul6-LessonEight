@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1080407734982",
+    "project_id": "modulsix-lessoneight",
+    "storage_bucket": "modulsix-lessoneight.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080407734982:android:2b7acd8ef3cb08344135c7",
+        "android_client_info": {
+          "package_name": "dev.ogabek.kotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1080407734982-j71ssuhj7f6hhf5mvh2argpsgkhqjqls.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByG1BFxdYgQ8kC64Y6hZW6ZsadaUewQsk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1080407734982-j71ssuhj7f6hhf5mvh2argpsgkhqjqls.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
